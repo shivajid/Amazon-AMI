@@ -1,27 +1,25 @@
-Amazon-AMI
-==========
+**Amazon-AMI**
+
 
 HDP 2.1 with Spark 1.1
 
 Created an Hortonworks AMI with Spark 1.1
 
-Login 
-======
+**Login** 
+
 
 Login with ec2-user
 
-a) Check if ambari sever is running
+* Check if ambari sever is running
 
-sudo ambari-server status
+`sudo ambari-server status`
 
-b) Start Ambari Server
+* Start Ambari Server
 
-sudo ambari-server start
+`sudo ambari-server start`
 
-Ambari UI
-=========
+**Ambari UI**
 
-Ambari Server
 
 http://{ec2-host}:8080/
 
