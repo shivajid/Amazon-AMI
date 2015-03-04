@@ -27,8 +27,8 @@ u/p - admin/admin
 
 Check and start your HDP services
 
-Spark 
-======
+**Spark** 
+
 
 Spark 1.1 is installed under ec2-user
 
